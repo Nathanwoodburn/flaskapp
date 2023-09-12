@@ -1,0 +1,2 @@
+# Default flask app template
+

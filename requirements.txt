@@ -1,0 +1,7 @@
+python-dotenv
+requests
+flask
+jsonify
+beautifulsoup4
+gunicorn
+Jinja2
